@@ -33,13 +33,11 @@ git clone https://github.com/Sumit-Agnihotri/MOVIE_RATING_PREDICTION.git
 1. Open the Jupyter Notebook and follow the steps for data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
 2. Run the notebook cells to see the results and visualizations.
 
-## License
+## Licens
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
 
-[Sumit Agnihotri](https://github.com/Sumit-Agnihotri)
+
 
 ## Acknowledgments
 
